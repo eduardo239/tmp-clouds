@@ -269,8 +269,8 @@ fdfffc
 da2c38
 */
 .App-hero {
-  background: url("../img/spacejoy-uGWNcejbf2E-unsplash.jpg") no-repeat center
-    center;
+  background: url("../img/spacejoy-uGWNcejbf2E-unsplash\ 1.jpg") no-repeat
+    center center;
   background-size: cover;
   min-height: 75vh;
   display: block;
